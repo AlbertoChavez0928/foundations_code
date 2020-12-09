@@ -43,11 +43,7 @@ task 25-task 26=nfaexample.py
 
 task 27 = member of nfa.py
 
-task 28 = operator.py
-
-task 29 =testdfa.py
-
-task 30=
+task 28-32=TRACE_TREE,tt_test.py
 
 
 
