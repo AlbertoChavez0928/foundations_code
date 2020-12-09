@@ -41,7 +41,7 @@ task 24 =getnaf.py
 
 task 25-task 26=nfaexample.py
 
-task 27 = testdfa.py
+task 27 = member of nfa.py
 
 task 28 = operator.py
 
