@@ -23,17 +23,31 @@ task 13 = operator.py
 
 task 14 = operator.py
 
-task 15 
+task 15 =test_dfas.py
 
 task 16 = operator.py
 
-task 17
+task 17 = testdfa.py
 
 task 18 = operator.py
 
-task 19 =
+task 19 =testdfa.py
 
-task 20 =operator.py
+task 20-22 =operator.py
+
+task 23 =NFA.py
+
+task 24 =getnaf.py
+
+task 25-task 26=nfaexample.py
+
+task 27 = testdfa.py
+
+task 28 = operator.py
+
+task 29 =testdfa.py
+
+task 30=
 
 
 
