@@ -1,4 +1,14 @@
 # foundations_code
+Youtube links explainning tasks:
+task 1-7
+[https://youtu.be/k-nubCau93c](https://youtu.be/k-nubCau93c)
+task 8-17
+https://youtu.be/try75qR6emc
+task 17-28
+https://youtu.be/3f-HJMbmFEo
+
+
+
 task 1-3=nth string eith explicityl or implictly
 
 task 4=dfa.py
